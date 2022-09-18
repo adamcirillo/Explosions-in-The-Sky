@@ -13,6 +13,8 @@
   "name": "Explosions in The Sky",
   "version": "0.0.1",
   "author": "adamcirillo",
+  "externalDeps":[
+  ],
   "files": [
     {
       "projectID": 225635,

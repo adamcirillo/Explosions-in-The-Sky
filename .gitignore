@@ -3,3 +3,4 @@ config/oauth.cfg
 .DS_Store
 buildOut/
 .idea/
+minecraftinstance.json
