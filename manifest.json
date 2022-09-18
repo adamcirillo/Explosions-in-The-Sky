@@ -13,31 +13,6 @@
   "name": "Explosions in The Sky",
   "version": "0.0.1",
   "author": "adamcirillo",
-  "externalDependencies": [
-    {
-      "name": "Applied Energistics 2 Trousers Edition",
-      "url": "https://github.com/PrototypeTrousers/Applied-Energistics-2/releases/download/omni-fixes-v47/appliedenergistics2-rv6-stable-7.omni-fixes-v47i.jar",
-      "sha": "71D65E6CC66F9AEBDD8CB5D77D24E577"
-    },
-    {
-      "name": "Micdoodle Core",
-      "url": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
-      "sha": "2b033cb0694a53ea7b80876e2f00dec5"
-
-    },
-    {
-      "name": "Galacticraft Core",
-      "url": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
-      "sha": "9298e6b85b38eab9b830a0637f1fbced"
-
-    },
-    {
-      "name": "Galacticraft Planets",
-      "url": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
-      "sha": "848ebcd467a3389c9461007d2b164a6c"
-
-    }
-  ],
   "files": [
     {
       "projectID": 225635,
