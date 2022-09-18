@@ -11,7 +11,9 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Explosions in The Sky",
-  "author": "wilechaote",
+  "author": "adamcirillo",
+  "externalDeps":[
+  ],
   "files": [
     {
       "projectID": 225635,
